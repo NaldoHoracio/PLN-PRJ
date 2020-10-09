@@ -1,0 +1,6 @@
+Classificação - Listas 3, 5
+Similaridade - Lista 4
+Pos tag e árvore de dependências - Lista 7
+
+Data set: pasta tech
+Classificação: pastas yes e no
