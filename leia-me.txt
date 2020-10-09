@@ -1,6 +1,7 @@
 Classificação - Listas 3, 5
 Similaridade - Lista 4
-Pos tag e árvore de dependências - Lista 7
+Pos tag e árvore de dependências - Lista 7: faça requisição para
+este notebook: https://bit.ly/3lyhRwl
 
 Data set: pasta tech
 Classificação: pastas yes e no
